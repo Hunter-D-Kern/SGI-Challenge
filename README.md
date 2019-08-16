@@ -2,7 +2,7 @@
 
 Using Microsofts AdventureWorks2017 Database this application will:
 
-    Collect a zip code location and time range (days)
+    Collect a zip code location and time range
 
     Present to the user average dollars per transaction by zip code. 
 
